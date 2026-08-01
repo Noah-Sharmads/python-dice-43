@@ -1,2 +1,4 @@
-# python-dice-43
+# Python Dice 43
+
 A random dice rolling simulator CLI in Python.
+
